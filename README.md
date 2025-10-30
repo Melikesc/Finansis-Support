@@ -12,7 +12,7 @@ En kısa sürede yanıt vereceğiz.
 **E-posta:** finansisapp@gmail.com  
 **GitHub Issues:** Hata bildirimi veya yeni özellik isteği için bu repodaki *Issues* sekmesini kullanabilirsiniz.  
 
-###  Tanıtım 
+###  ❓ Sıkça Sorulan Sorular (SSS)   
 
 **Finansis nedir?**  
 Finansis, kişisel finans yönetimini sadeleştiren bir mobil uygulamadır.  
@@ -90,7 +90,7 @@ Yes. All financial data is stored locally on your device and never shared with e
 You can add assets by selecting your preferred currency in the Portfolio tab and entering the amount.  
 The total balance and chart update automatically.  
 
-### App Features  
+### ⚙️ App Features  
 
 - Visual asset distribution charts  
 - Daily exchange rate updates (TRY, USD, EUR, GBP)  
